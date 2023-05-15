@@ -18,21 +18,22 @@ salaries
 titles
 -
 
-# Conceptual (with relationships)
+## Conceptual (with relationships)
 departments
 -
 
 dept_emp
--
+-departments
 
 dept_manager
--
+-departments
+-employees
 
 employees
--
+-titles
 
 salaries
--
+-employees
 
 titles
 -
