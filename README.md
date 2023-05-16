@@ -1,16 +1,15 @@
 ## Desciption
-Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+I performed a research about people at Pewlett Hackard employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files. For this project, I designed tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then queried the database for some specific information the data. The project work flow is as follows developed through this project inlcudes **data Engineering**, **data Modelling**, **data Analysis**, **Entity Relationship Diagraming**.
 
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
+  <img width="600" class = center src = https://github.com/Jayplect/sql-challenge/assets/107348074/5cfc3ea4-56f3-43bc-99cf-65b2b712685c>
 
-## Skills
-<img width="200" src = https://github.com/Jayplect/sql-challenge/assets/107348074/52b46513-8abe-404f-9553-53b1cbcb9cd8>
-<img width="130" src = https://github.com/Jayplect/sql-challenge/assets/107348074/a3bcafd9-b8c7-4a0a-b805-99fa1a2ab539>
 
-* Other skills
-  - Data Engineering
-  - Data Modelling
-  - Entity Relationship Diagram
+## Tools Used
+<img width="300" src = https://github.com/Jayplect/sql-challenge/assets/107348074/52b46513-8abe-404f-9553-53b1cbcb9cd8>
+<img width="200" src = https://github.com/Jayplect/sql-challenge/assets/107348074/a3bcafd9-b8c7-4a0a-b805-99fa1a2ab539>
+
+* Other hard skills developed include:
+
 
 
 ## Summary of Dataset
