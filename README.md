@@ -3,11 +3,15 @@ Your first major task is to do a research project about people whom the company 
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-## Dependencies used
-<img width="120" src = https://user-images.githubusercontent.com/107348074/236379504-0f0e8534-6435-4924-b72d-283946e03c4b.png>
-<img width="120" src = https://user-images.githubusercontent.com/107348074/236379877-e0e3b90e-217f-4700-ade2-df8b5ef8f23b.png>
-<img width="120" src =https://user-images.githubusercontent.com/107348074/236379730-0286f397-c9e0-4e0c-a91c-e07d64f6ceec.png>
-<img width="120" src = https://user-images.githubusercontent.com/107348074/236379825-80dc02bc-46c1-46fa-9634-dc28cdcb5704.png>
+## Skills
+<img width="200" src = https://github.com/Jayplect/sql-challenge/assets/107348074/52b46513-8abe-404f-9553-53b1cbcb9cd8>
+<img width="130" src = https://github.com/Jayplect/sql-challenge/assets/107348074/a3bcafd9-b8c7-4a0a-b805-99fa1a2ab539>
+
+* Other skills
+  - Data Engineering
+  - Data Modelling
+  - Entity Relationship Diagram
+
 
 ## Summary of Dataset
 
