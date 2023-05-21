@@ -1,4 +1,4 @@
-## Desciption
+## Description
 I performed a research about people at Pewlett Hackard employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files. For this project, I designed tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then queried the database for some specific information the data. The project work flow used for this project is captured in the chart below:     
 <p align="center">
 <img align="center" width="600" src =https://github.com/Jayplect/sql-challenge/assets/107348074/8b0ea287-aee2-4725-b3e0-647ac6da8f40> 
